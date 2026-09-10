@@ -6,6 +6,8 @@
 
 # Headless Loan Calculator
 
+[![npm version](https://img.shields.io/npm/v/%40helpu%2Fheadless-loan-calculator?logo=npm)](https://www.npmjs.com/package/@helpu/headless-loan-calculator)
+
 A headless, framework-agnostic loan calculator with support for VAT, multiple currencies, and full amortization schedules. Zero dependencies, works in Node.js, Bun, and browsers.
 
 ## What is HelpU Finance?
